@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tathagat27&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tathagat27&theme=onedark" alt="piyushgarg-dev" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Stack and Java**
 
 - 🌱 I’m currently learning **Amazon Web Services**
