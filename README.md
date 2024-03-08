@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are available at [https://piyushgarg.dev](https://piyushgarg.dev) -->
 
-- 📝 I regularly write articles on [https://tathagat.hashnode.dev](https://tathagat.hashnode.dev/)
+- 📝 I sometimes post articles on [https://tathagat.hashnode.dev](https://tathagat.hashnode.dev/)
 
 - 💬 Ask me about **Node.js, React, Java, MongoDB Etc.**
 
