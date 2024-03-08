@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tathagat27&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgarg-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tathagat27" alt="piyushgarg-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tathagat27&theme=onedark" alt="piyushgarg-dev" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack and Java**
 
@@ -127,8 +127,8 @@ Here are some ideas to get you started:
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tathagat27&show_icons=true&locale=en&layout=compact" alt="Tathagat27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tathagat27&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Tathagat27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tathagat27&show_icons=true&locale=en" alt="Tathagat27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tathagat27&show_icons=true&locale=en&theme=gotham" alt="Tathagat27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tathagat27&" alt="Tathagat27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tathagat27&theme=gotham" alt="Tathagat27" /></p>
